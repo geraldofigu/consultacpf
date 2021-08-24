@@ -1,0 +1,36 @@
+{
+    "statuscpf": [
+        {
+            "id": "899.219.340-82",
+            "situacao": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "247.641.770-05",
+            "situacao": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "310.788.900-80",
+            "situacao": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "409.238.930-24",
+            "situacao": "UNABLE_TO_VOTE"
+        },
+        {
+            "id": "775.894.240-72",
+            "situacao": "UNABLE_TO_VOTE"
+        },
+        {
+            "id": "526.033.540-60",
+            "situacao": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "348.899.020-66",
+            "situacao": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "178.763.040-44",
+            "situacao": "UNABLE_TO_VOTE" 
+        }
+    ]
+}
