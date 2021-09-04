@@ -31,6 +31,101 @@
         {
             "id": "178.763.040-44",
             "situacao": "UNABLE_TO_VOTE" 
+        },{
+            "id": "738.699.090-13",
+            "situacao": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "649.085.570-47",
+            "situacao": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "447.962.830-48",
+            "situacao": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "637.990.210-43",
+            "situacao": "UNABLE_TO_VOTE"
+        },
+        {
+            "id": "189.208.120-20",
+            "situacao": "UNABLE_TO_VOTE"
+        },
+        {
+            "id": "703.259.570-70",
+            "situacao": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "287.495.340-76",
+            "situacao": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "205.289.920-07",
+            "situacao": "UNABLE_TO_VOTE" 
+        },        
+        {
+            "id": "960.545.000-31",
+            "situacao": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "166.027.720-58",
+            "situacao": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "145.324.590-10",
+            "situacao": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "145.324.590-10",
+            "situacao": "UNABLE_TO_VOTE"
+        },
+        {
+            "id": "891.757.820-90",
+            "situacao": "UNABLE_TO_VOTE"
+        },
+        {
+            "id": "927.957.320-92",
+            "situacao": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "528.629.820-67",
+            "situacao": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "987.795.100-27",
+            "situacao": "UNABLE_TO_VOTE" 
+        },
+        {
+            "id": "474.626.040-00",
+            "situacao": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "609.516.830-98",
+            "situacao": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "244.083.460-20",
+            "situacao": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "548.575.850-90",
+            "situacao": "UNABLE_TO_VOTE"
+        },
+        {
+            "id": "572.887.990-00",
+            "situacao": "UNABLE_TO_VOTE"
+        },
+        {
+            "id": "918.863.680-15",
+            "situacao": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "424.457.620-73",
+            "situacao": "ABLE_TO_VOTE"
+        },
+        {
+            "id": "034.995.310-46",
+            "situacao": "UNABLE_TO_VOTE" 
         }
     ]
 }
